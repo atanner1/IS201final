@@ -1,0 +1,30 @@
+body {    background-color: #334db6; 
+    padding: 20px;
+    font-family: "Arial", sans-serif;
+    color: #000000;
+  }
+  
+  #container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  ol {
+    background-color: #334db6;
+    padding: 10px;
+    color: white;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  
+  #navigation {
+    margin-top: 20px;
+  }
+  
+ 
+  
